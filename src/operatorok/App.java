@@ -16,6 +16,16 @@ public class App {
         System.out.println();
 
         // 4. feladat
+        taskObj.divideBy10();
+
+        // 5. feladat
+        taskObj.statistics();
+
+        // 6. feladat
+        taskObj.askExpression();
+
+        // 8. feladat
+        taskObj.result();
 
 
 
